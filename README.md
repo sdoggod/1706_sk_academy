@@ -1,1 +1,1 @@
-# 1706_sk_academy
+# SK Academy Course Materials (June 2017)
